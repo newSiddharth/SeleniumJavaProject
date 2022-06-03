@@ -1,0 +1,2 @@
+# SeleniumJavaProject
+This repository is a simple automation framework based on Selenium and Java Selenium is used for UI Automation Java is used as programming language TestNG is used as unit testing framework Page Object Model design pattern is used with Page Factory Git is used as version controlling tool Created in IntelliJ idea Log4j is used for logging For Reporting purpose Extent report is used It is a Data Driven Framework using Excel sheet and APACHE POI API. Different components are Configurations, Logs, pageObjects, testCases, BaseClass and Utilities class.
